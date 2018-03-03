@@ -1,0 +1,66 @@
+.purchasing-print{
+  font-size: 16px !important;
+  padding-top: 20px !important;
+}
+.purchasing-print h1,h2,h3{
+  margin: 0 !important;
+  padding: 0 !important;
+  font-size: 1.4em !important;
+  font-weight: bold !important;
+  text-transform: uppercase !important;
+}
+.purchasing-print table tr:nth-child(odd){
+  background-color: #ddd !important;
+}
+
+/*section1 header*/
+.purchasing-print .header__detail-table{
+  border: 1px solid #bbb !important;
+}
+.purchasing-print .header__detail-table td{
+  padding: 3px 6px !important;
+}
+.purchasing-print .header__line{
+  border-top: 2px solid #aaa !important;
+  margin: 0 0 1em 0 !important;
+}
+
+/*section2 address*/
+.purchasing-print .address{
+  margin-bottom: 1.5em !important;
+}
+.purchasing-print .address__head{
+  color: #fff !important;
+  background-color: #000 !important;
+  width: 60% !important;
+  padding-left: 0.5em !important;
+}
+
+/*section3 list*/
+.purchasing-print .list__table{
+  margin-bottom: 1.5em !important;
+  width: 100% !important;
+}
+.purchasing-print .list__table thead tr{
+  color: #fff !important;
+  background-color: #444 !important;
+}
+.purchasing-print .list__table thead th{
+  color: #fff !important;
+  text-align: left !important;
+  padding: 0.5em 0.4em !important;
+}
+.purchasing-print .list__table tbody td{
+  padding: 0.2em 0.4em !important;
+}
+.purchasing-print .list__table tfoot tr{
+  background-color: #fff !important;
+}
+.purchasing-print .list__table tfoot td{
+  padding: 0.2em 0.4em !important;
+}
+
+/*section4 note*/
+.purchasing-print .note label{
+  display: block !important;
+}
