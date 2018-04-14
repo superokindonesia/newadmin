@@ -9,6 +9,19 @@
 	font-style: normal;
 }
 
+@font-face {
+	font-family: 'bebas';
+	src:url('../fonts/BebasNeue-Regular.otf');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'bebas';
+	src:url('../fonts/BebasNeue-Bold.otf');
+	font-weight: bold;
+	font-style: normal;
+}
+
 [class^="ti-"], [class*=" ti-"] {
 	font-family: 'themify';
 	speak: none;
