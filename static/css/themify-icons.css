@@ -10,6 +10,13 @@
 }
 
 @font-face {
+	font-family: 'Eurostile';
+	src:url('../fonts/Eurostile.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
 	font-family: 'bebas';
 	src:url('../fonts/BebasNeue-Regular.otf');
 	font-weight: normal;
